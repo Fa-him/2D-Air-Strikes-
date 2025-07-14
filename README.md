@@ -1,4 +1,4 @@
-# 2D Air Strikes ✈️🔥
+# 2D Smart Air Strikes ✈️🔥
 
 A fun browser game that uses real-time finger tracking via webcam to control your plane.  
 Shoot enemies, dodge bullets, and collect hearts ❤️ to increase your lives.  
