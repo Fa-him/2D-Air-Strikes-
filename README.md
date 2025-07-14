@@ -14,7 +14,7 @@ Shoot enemies, dodge bullets, and collect hearts ❤️ to increase your lives.
 ## How to Run 🚀
 
 1. Clone or download the repo 📥  
-2. Open `index.html` in a modern browser (Chrome recommended) 🌐  
+2. Open `https://fa-him.github.io/2D-Smart-Air-Strikes/` in a modern browser (Chrome recommended) 🌐  
 3. Allow webcam access 📷  
 4. Enjoy playing by moving your index finger in front of the camera 🤚 or use keyboard arrow keys ⬅️⬆️➡️⬇️  
 
