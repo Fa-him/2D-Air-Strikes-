@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>2D Air Strikes</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/jpeg" href="assets/fabicon.jpeg">
+</head>
+<body>
+  <video id="bgVideo" autoplay playsinline muted style="display:none;"></video>
+  <canvas id="gameCanvas"></canvas>
+
+  <!-- MediaPipe -->
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"></script>
+
+  <!-- Modules -->
+  <script type="module" src="handcontrol.js"></script>
+  <script type="module" src="game.js"></script>
+</body>
+</html>
